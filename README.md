@@ -1,15 +1,15 @@
 # 🎬 Mini Netflix Movie Recommender (Streamlit App)
 
 ## Structure
-movie_recommender_app/
-├── app.py
-├── utils/
-│   └── recommender.py
-├── data/
-│   ├── movies.csv
-│   ├── ratings.csv
-│   ├── tags.csv
-│   └── links.csv
+movie_recommender_app/ 
+├── app.py 
+├── utils/ 
+│   └── recommender.py 
+├── data/ 
+│   ├── movies.csv  
+│   ├── ratings.csv 
+│   ├── tags.csv 
+│   └── links.csv 
 ├── assets/
 │   ├── backgroundimg.webp
 │   └── style.css
