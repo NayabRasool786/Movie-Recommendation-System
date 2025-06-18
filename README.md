@@ -1,7 +1,7 @@
 # 🎬 Mini Netflix Movie Recommender (Streamlit App)
 
 ## Structure
-<img src="Project%20Structure.png" alt="Project Structure" style="width:50%; height:auto;">
+<img src="assets/Project%20Structure.png" alt="Project Structure" style="width:50%; height:auto;">
 
 This is a beginner-friendly movie recommendation system built using:
 - 📊 Pandas + MovieLens Dataset
