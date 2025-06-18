@@ -1,6 +1,6 @@
 # 🎬 Mini Netflix Movie Recommender (Streamlit App)
 
-##Structure
+## Structure
 movie_recommender_app/
 ├── app.py
 ├── utils/
