@@ -1,0 +1,49 @@
+.main-title {
+    color: #E50914;
+    font-size: 3em;
+    font-weight: bold;
+}
+.subheader {
+    color: #FFFFFF;
+    font-size: 1.5em;
+    margin-top: -10px;
+}
+label, .stTextInput > div > div, .stButton button {
+    color: #FFFFFF !important;
+}
+.stTextInput > div > div > input {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: 1px solid #E50914;
+}
+.stButton button {
+    background-color: #E50914;
+    border: none;
+}
+.stButton button:hover {
+    background-color: #B81D24;
+}
+.recommendation-box {
+    background-color: #7ecb73;
+    color: #000000;
+    padding: 1em;
+    border-radius: 8px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+.recommendation-error-box {
+    background-color: #f50000;
+    color: #FFFFFF;
+    padding: 1em;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.stMarkdown a {
+    color: #E50914;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+.stMarkdown a:hover {
+    color: #FFFFFF;
+}
