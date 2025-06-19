@@ -23,4 +23,9 @@ This is a beginner-friendly movie recommendation system built using:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py 
+```
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nayabrasool-shaik)
