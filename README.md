@@ -2,6 +2,10 @@
 
 ## Structure
 <img src="assets/Project%20Structure.png" alt="Project Structure" style="width:35%; height:auto;">
+```bash
+pip install -r requirements.txt
+streamlit run app.py 
+```
 
 This is a beginner-friendly movie recommendation system built using:
 - 📊 Pandas + MovieLens Dataset
