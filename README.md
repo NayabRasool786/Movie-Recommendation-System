@@ -1,10 +1,22 @@
 # 🎬 Mini Netflix Movie Recommender (Streamlit App)
 
 ## Structure
-<img src="assets/Project%20Structure.png" alt="Project Structure" style="width:35%; height:auto;">
 ```bash
-pip install -r requirements.txt
-streamlit run app.py 
+movie_recommender_app/
+├── app.py
+├── utils/
+│   └── recommender.py
+├── data/
+│   ├── movies.csv
+│   ├── ratings.csv
+│   ├── tags.csv
+│   └── links.csv
+├── assets/
+│   ├── netflixlogobackground.webp
+│   └── style.css
+├── requirements.txt
+└── README.md
+
 ```
 
 This is a beginner-friendly movie recommendation system built using:
