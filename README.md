@@ -1,6 +1,8 @@
 # 🎬 Mini Netflix Recommendation System
 A hybrid movie recommender web app built using **Python**, **Pandas**, **Scikit-learn**, and the **MovieLens latest dataset**, deployed using **Streamlit Cloud**.
 
+---
+
 ## Structure
 ```bash
 movie_recommender_app/
@@ -106,11 +108,15 @@ Combined both collaborative and content-based methods:
 2. It finds similar movies based on user rating patterns
 3. Outputs top 5 recommendations instantly!
 
+---
+
 ## 📦 Tech Stack
 - Python
 - Pandas
 - Scikit-learn
 - Streamlit
+
+---
 
 ## 🚀 Run Locally
 
@@ -118,9 +124,12 @@ Combined both collaborative and content-based methods:
 pip install -r requirements.txt
 streamlit run app.py 
 ```
+---
+
 ## 👨‍💻 Developed By
 **Shaik Nayab Rasool**
 
+---
 
 ## Connect with Me
 
